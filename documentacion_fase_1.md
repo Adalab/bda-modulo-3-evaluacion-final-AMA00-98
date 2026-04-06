@@ -19,7 +19,6 @@ Este análisis inicial permitió detectar desde el principio varios aspectos imp
 - La presencia de valores Nulos en el dataset de "customer loyalty history".
 - La necesidad de usar una columna común para combinar ambos conjuntos de datos.
 - Valores negativos en la columna numérica de "Salary".
-- Posibles outliers en la columna de "Loyalty Number".
 
 ## 3. Revisión de duplicados
 
